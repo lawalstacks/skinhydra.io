@@ -1,7 +1,7 @@
 # skinhydra
 
-A new Flutter project.
+A Cs2 skin trading website buit on flutter.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This project was built to run on the Flutter _stable_ release.
