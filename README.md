@@ -1,6 +1,6 @@
 # skinhydra
 
-A Cs2 skin trading website buit on flutter.
+A Cs2 skin trading website 
 
 ## Getting Started
 
