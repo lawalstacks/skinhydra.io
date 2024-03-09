@@ -150,12 +150,17 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'id': '',
     },
     'oecb90o3': {
-      'en': 'Hello World',
+      'en': 'Trade Anywhere With\n Mobile App',
       'ar': '',
       'id': '',
     },
     'rjpl67gd': {
-      'en': 'Button',
+      'en': 'Learn More',
+      'ar': '',
+      'id': '',
+    },
+    '7ovzs178': {
+      'en': 'Popular CS2 skins',
       'ar': '',
       'id': '',
     },
